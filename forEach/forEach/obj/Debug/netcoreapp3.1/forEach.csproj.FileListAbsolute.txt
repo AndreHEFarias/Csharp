@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.exe
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.deps.json
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.runtimeconfig.json
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.dll
+C:\Users\andre.farias\source\repos\forEach\forEach\bin\Debug\netcoreapp3.1\forEach.pdb
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.dll
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.pdb
+C:\Users\andre.farias\source\repos\forEach\forEach\obj\Debug\netcoreapp3.1\forEach.genruntimeconfig.cache

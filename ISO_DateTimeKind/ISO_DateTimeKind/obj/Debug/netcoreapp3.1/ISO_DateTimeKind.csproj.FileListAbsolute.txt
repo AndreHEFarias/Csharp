@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.exe
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.deps.json
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.runtimeconfig.json
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.dll
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\bin\Debug\netcoreapp3.1\ISO_DateTimeKind.pdb
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.dll
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.pdb
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.genruntimeconfig.cache
+C:\Users\andre.farias\source\repos\ISO_DateTimeKind\ISO_DateTimeKind\obj\Debug\netcoreapp3.1\ISO_DateTimeKind.csproj.AssemblyReference.cache

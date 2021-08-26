@@ -1,0 +1,13 @@
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.exe
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.deps.json
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.runtimeconfig.json
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.dll
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\bin\Debug\netcoreapp3.1\OperDateTime.pdb
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.dll
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.pdb
+C:\Users\andre.farias\source\repos\OperDateTime\OperDateTime\obj\Debug\netcoreapp3.1\OperDateTime.genruntimeconfig.cache

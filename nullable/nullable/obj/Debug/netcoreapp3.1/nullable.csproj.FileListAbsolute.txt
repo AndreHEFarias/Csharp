@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.exe
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.dll
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\bin\Debug\netcoreapp3.1\nullable.pdb
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.dll
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.pdb
+C:\Users\andre.farias\Documents\estudos-C#\nullable\nullable\obj\Debug\netcoreapp3.1\nullable.genruntimeconfig.cache

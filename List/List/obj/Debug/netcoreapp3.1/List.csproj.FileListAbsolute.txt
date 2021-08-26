@@ -1,0 +1,13 @@
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\andre.farias\source\repos\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\andre.farias\source\repos\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache

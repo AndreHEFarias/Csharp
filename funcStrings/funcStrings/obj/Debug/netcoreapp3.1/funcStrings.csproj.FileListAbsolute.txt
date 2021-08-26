@@ -1,0 +1,13 @@
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.exe
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.deps.json
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.runtimeconfig.json
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.dll
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\bin\Debug\netcoreapp3.1\funcStrings.pdb
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.dll
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.pdb
+C:\Users\andre.farias\source\repos\funcStrings\funcStrings\obj\Debug\netcoreapp3.1\funcStrings.genruntimeconfig.cache

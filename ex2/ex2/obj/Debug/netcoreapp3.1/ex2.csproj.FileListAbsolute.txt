@@ -1,0 +1,13 @@
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.exe
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.deps.json
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.json
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.dll
+C:\Users\andre.farias\source\repos\ex2\ex2\bin\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.dll
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.pdb
+C:\Users\andre.farias\source\repos\ex2\ex2\obj\Debug\netcoreapp3.1\ex2.genruntimeconfig.cache

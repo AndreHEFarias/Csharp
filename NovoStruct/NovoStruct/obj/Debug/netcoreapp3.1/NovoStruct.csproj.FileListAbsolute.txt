@@ -1,0 +1,13 @@
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.exe
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.dll
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\bin\Debug\netcoreapp3.1\NovoStruct.pdb
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.dll
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.pdb
+C:\Users\andre.farias\Documents\estudos-C#\NovoStruct\NovoStruct\obj\Debug\netcoreapp3.1\NovoStruct.genruntimeconfig.cache

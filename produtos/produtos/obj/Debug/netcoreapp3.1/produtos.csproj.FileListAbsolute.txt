@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.exe
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.dll
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\bin\Debug\netcoreapp3.1\produtos.pdb
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.dll
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.pdb
+C:\Users\andre.farias\Documents\estudos-C#\produtos\produtos\obj\Debug\netcoreapp3.1\produtos.genruntimeconfig.cache

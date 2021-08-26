@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.exe
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.dll
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\bin\Debug\netcoreapp3.1\valorRaio.pdb
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.dll
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.pdb
+C:\Users\andre.farias\Documents\estudos-C#\valorRaio\valorRaio\obj\Debug\netcoreapp3.1\valorRaio.genruntimeconfig.cache

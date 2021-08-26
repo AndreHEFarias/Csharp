@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AluguelQuartos-ex/1.0.0": {
+        "runtime": {
+          "AluguelQuartos-ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AluguelQuartos-ex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

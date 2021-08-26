@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.exe
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.dll
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\bin\Debug\netcoreapp3.1\numeroMaiorFunction.pdb
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.dll
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.pdb
+C:\Users\andre.farias\Documents\estudos-C#\numeroMaiorFunction\numeroMaiorFunction\obj\Debug\netcoreapp3.1\numeroMaiorFunction.genruntimeconfig.cache
