@@ -1,0 +1,13 @@
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.exe
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.dll
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\bin\Debug\netcoreapp3.1\File_Stream_Reader.pdb
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.dll
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.pdb
+C:\Users\andre.farias\Documents\estudos-C#\File_Stream_Reader\File_Stream_Reader\obj\Debug\netcoreapp3.1\File_Stream_Reader.genruntimeconfig.cache

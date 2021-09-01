@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\andre.farias\Documents\estudos-C#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

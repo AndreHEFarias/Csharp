@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.exe
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\bin\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.dll
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.pdb
+C:\Users\andre.farias\Documents\estudos-C#\MetodosAbstratos\MetodosAbstratos\obj\Debug\netcoreapp3.1\MetodosAbstratos.genruntimeconfig.cache

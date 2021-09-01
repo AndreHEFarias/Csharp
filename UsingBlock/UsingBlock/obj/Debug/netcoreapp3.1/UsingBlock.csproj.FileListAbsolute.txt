@@ -1,0 +1,13 @@
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.exe
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.dll
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\bin\Debug\netcoreapp3.1\UsingBlock.pdb
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.dll
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.pdb
+C:\Users\andre.farias\Documents\estudos-C#\UsingBlock\UsingBlock\obj\Debug\netcoreapp3.1\UsingBlock.genruntimeconfig.cache

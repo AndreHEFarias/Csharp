@@ -1,0 +1,13 @@
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.exe
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.dll
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\StreamWriter.pdb
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.dll
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.pdb
+C:\Users\andre.farias\Documents\estudos-C#\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\StreamWriter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.exe
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.dll
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\bin\Debug\netcoreapp3.1\Ex2Funcio.pdb
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.dll
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.pdb
+C:\Users\andre.farias\Documents\estudos-C#\ex2POO\Virt_Overr_Base\obj\Debug\netcoreapp3.1\Ex2Funcio.genruntimeconfig.cache

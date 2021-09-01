@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\EnumAndCompo\\EnumAndCompo\\EnumAndCompo.csproj",
-      "projectName": "EnumAndCompo",
-      "projectPath": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\EnumAndCompo\\EnumAndCompo\\EnumAndCompo.csproj",
+      "projectUniqueName": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\EnumAndCompo\\EnumAndCompo\\Heranca.csproj",
+      "projectName": "Heranca",
+      "projectPath": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\EnumAndCompo\\EnumAndCompo\\Heranca.csproj",
       "packagesPath": "C:\\Users\\andre.farias\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre.farias\\Documents\\estudos-C#\\EnumAndCompo\\EnumAndCompo\\obj\\",
       "projectStyle": "PackageReference",

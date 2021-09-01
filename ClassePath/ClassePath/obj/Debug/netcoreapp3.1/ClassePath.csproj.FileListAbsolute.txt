@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.exe
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.dll
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\bin\Debug\netcoreapp3.1\ClassePath.pdb
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.dll
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.pdb
+C:\Users\andre.farias\Documents\estudos-C#\ClassePath\ClassePath\obj\Debug\netcoreapp3.1\ClassePath.genruntimeconfig.cache
