@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.exe
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.deps.json
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.runtimeconfig.json
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.dll
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\bin\Debug\netcoreapp3.1\IComparableEx.pdb
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.dll
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.pdb
+C:\Users\andre.farias\source\repos\IComparableEx\IComparableEx\obj\Debug\netcoreapp3.1\IComparableEx.genruntimeconfig.cache

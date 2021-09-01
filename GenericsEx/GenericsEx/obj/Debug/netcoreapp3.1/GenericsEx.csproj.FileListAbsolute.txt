@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.exe
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.deps.json
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.runtimeconfig.json
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.dll
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\bin\Debug\netcoreapp3.1\GenericsEx.pdb
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.dll
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.pdb
+C:\Users\andre.farias\source\repos\GenericsEx\GenericsEx\obj\Debug\netcoreapp3.1\GenericsEx.genruntimeconfig.cache

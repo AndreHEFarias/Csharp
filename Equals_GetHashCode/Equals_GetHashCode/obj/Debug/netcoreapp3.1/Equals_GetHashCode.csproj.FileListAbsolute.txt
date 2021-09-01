@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.exe
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.deps.json
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.runtimeconfig.json
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.dll
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\bin\Debug\netcoreapp3.1\Equals_GetHashCode.pdb
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.dll
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.pdb
+C:\Users\andre.farias\source\repos\Equals_GetHashCode\Equals_GetHashCode\obj\Debug\netcoreapp3.1\Equals_GetHashCode.genruntimeconfig.cache
