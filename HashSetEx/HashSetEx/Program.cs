@@ -10,7 +10,7 @@ namespace HashSetEx
             set.Add("TV");
             set.Add("Notebook");
             set.Add("Tablet");
-            Console.WriteLine(set.Contains("Notebook"));
+            Console.WriteLine(set.Contains("Noteebook"));
             foreach (String p in set)
             {
                 Console.WriteLine(p);
