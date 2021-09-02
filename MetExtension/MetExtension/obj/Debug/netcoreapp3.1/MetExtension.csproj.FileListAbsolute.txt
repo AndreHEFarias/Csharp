@@ -1,0 +1,14 @@
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.exe
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.deps.json
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.runtimeconfig.json
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.runtimeconfig.dev.json
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.dll
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\bin\Debug\netcoreapp3.1\MetExtension.pdb
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.csproj.AssemblyReference.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.AssemblyInfoInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.AssemblyInfo.cs
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.dll
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.pdb
+C:\Users\andre.farias\Documents\estudos-C#\MetExtension\MetExtension\obj\Debug\netcoreapp3.1\MetExtension.genruntimeconfig.cache

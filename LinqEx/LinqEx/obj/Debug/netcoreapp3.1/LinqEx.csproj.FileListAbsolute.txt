@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.exe
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.deps.json
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.runtimeconfig.json
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.dll
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\bin\Debug\netcoreapp3.1\LinqEx.pdb
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.dll
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.pdb
+C:\Users\andre.farias\source\repos\LinqEx\LinqEx\obj\Debug\netcoreapp3.1\LinqEx.genruntimeconfig.cache
