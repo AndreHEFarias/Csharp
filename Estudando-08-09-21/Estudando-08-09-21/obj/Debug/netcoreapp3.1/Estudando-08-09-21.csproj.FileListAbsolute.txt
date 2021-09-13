@@ -1,0 +1,14 @@
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.exe
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.deps.json
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.runtimeconfig.json
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.runtimeconfig.dev.json
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.dll
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\bin\Debug\netcoreapp3.1\Estudando-08-09-21.pdb
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.csproj.AssemblyReference.cache
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.AssemblyInfoInputs.cache
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.AssemblyInfo.cs
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.csproj.CoreCompileInputs.cache
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.dll
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.pdb
+C:\Users\andre.farias\source\repos\Estudando-08-09-21\Estudando-08-09-21\obj\Debug\netcoreapp3.1\Estudando-08-09-21.genruntimeconfig.cache
